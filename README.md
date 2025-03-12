@@ -91,4 +91,16 @@ UNC Testing
 ------------
 https://scriptblox.com/script/Universal-Script-UNC-Test-12345
 
+NameLess Admin
+---------------
+https://scriptblox.com/script/Universal-Script-Nameless-Admin-6762 Or
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+Infinite Yield
+---------------
+https://scriptblox.com/script/Infinite-Yield_500 Or
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source'))()
+
 
