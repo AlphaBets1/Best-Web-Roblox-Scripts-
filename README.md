@@ -24,3 +24,17 @@ For Roblox Scripts!
 11. scriptrb.com
 
 12. arceusx.com
+
+13. juninhoscripts.com.br
+
+Guide To Instal Scripts
+
+First Download A Executor 
+Then
+You Openned
+Then
+You Must Get The Key
+Then
+You Have Unlocked
+Then
+Execute Script Or Searching
