@@ -1,6 +1,6 @@
 # Best-Web-Roblox-Scripts-
 For Roblox Scripts!
-
+--------------------------------------
 1. rbxscript.com
 
 2. rscripts.net
@@ -26,7 +26,7 @@ For Roblox Scripts!
 12. arceusx.com
 
 13. juninhoscripts.com.br
-
+---------------------------------
 Guide To Instal Scripts
 
 First Download A Executor 
@@ -38,3 +38,51 @@ Then
 You Have Unlocked
 Then
 Execute Script Or Searching
+----------------------------------------
+
+Roblox Executors 
+
+----------------------------------
+Solara
+Awp
+Delta
+DeltaX
+Fluxus
+Fluxus Pc
+Illusion
+Hydrogen (outdated)
+JJSploits
+Arceus X
+Arceus X Neo
+Arceus X Admin
+Cubix
+Codex
+QuestX
+VegaX
+Revelix
+Krnl
+Synapse X
+Synapse Z
+Cryptic
+Trigon
+Trigon Evo
+Evon
+Kato
+Nebula
+Wave
+Xeno
+Luna
+Velocity
+Argon
+Swift
+SirHurt
+FluxTeam SubzZero
+Valyse
+Oxygen U
+Zorara
+Ronix
+Nezur
+Celery
+SYNTH X
+Atlantis
+
